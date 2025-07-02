@@ -1,4 +1,4 @@
-package com.example.instagramvideodownloaderapp
+package com.example.instagramvideodownloaderapp.home
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -13,7 +13,6 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-
 
 
 class MainActivity : ComponentActivity() {
