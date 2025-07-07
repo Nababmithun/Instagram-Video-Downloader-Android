@@ -60,6 +60,10 @@ dependencies {
 
     implementation (libs.kotlinx.coroutines.android)
     implementation (libs.okhttp)
+    // HTML parsing
     implementation(libs.jsoup)
+    // JSON parsing
+    implementation(libs.json.path)
+    implementation(libs.androidx.datastore.preferences)
 
 }
